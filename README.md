@@ -1,4 +1,4 @@
-Online Food Delivery – Performance & Insights Dashboard
+# Online Food Delivery – Performance & Insights Dashboard
 
 Project Overview
 This project analyzes an online food delivery dataset to understand **customer behavior, restaurant performance, revenue trends, and delivery efficiency**.  
@@ -6,7 +6,7 @@ The goal is to build a **professional, interactive Power BI dashboard** suitable
 
 This is an end-to-end analytics project covering **data extraction, cleaning, analysis, and visualization**.
 
-Tools & Technologies Used
+# Tools & Technologies Used
 - SQL (MySQL) – Data storage, table design, and querying  
 - Python – Data analysis and preprocessing  
   - Pandas  
