@@ -1,0 +1,4 @@
+order_id,customer_id,restaurant_id,order_date,delivery_time_min,order_amount,payment_mode,feedback
+756661,100011,1,2025-11-05,1,300,online,good
+756662,10012,2,2025-10-31,12,500,offline,excellent
+756663,10013,3,2025-10-20,2,750,online,good
