@@ -16,7 +16,7 @@ This is an end-to-end analytics project covering **data extraction, cleaning, an
 - Power BI – Interactive dashboard creation and DAX measures  
 - GitHub – Project version control and portfolio showcase
 
-**Dataset Description**
+# Dataset Description
 The dataset represents an online food delivery platform with the following entities:
 
 - Customers – demographic and location data  
